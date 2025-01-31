@@ -1,4 +1,4 @@
-# Title of the Page
+# Erick's Page
 
 Paragraphs are separated by a blank line.
 
