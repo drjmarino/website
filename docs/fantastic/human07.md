@@ -1,4 +1,4 @@
-# Title of the Page
+# Kaitlyn's Collection of Cats
 
 Paragraphs are separated by a blank line.
 
