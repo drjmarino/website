@@ -1,4 +1,4 @@
-# Title of the Page
+# Why I Like Breath Of The Wild
 
 Paragraphs are separated by a blank line.
 
@@ -12,15 +12,11 @@ Itemized lists look like:
 
 
 
-## First header
+## Gameplay
 
-Here's a numbered list:
+The gameplay of Breath of the Wild is long but not annoying. It allows you to explore the game at your own pace and is anything but linear. You can go from area to area no matter the stage of the game you are in. It is also fun because the combat isn't difficult but requires focus. You can't just mindlessly swing your sword and win; you need to pay attention to attack patterns, armor, health, your own health, and any buffs you may have applied.
 
- 1. first item
- 2. second item
- 3. third item
-
-### Second level header
+### 
 
 Now a nested list:
 
