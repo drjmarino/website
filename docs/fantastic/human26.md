@@ -1,6 +1,6 @@
-# Title of the Page
+# Dianitas page
 
-Paragraphs are separated by a blank line.
+I am so fantastic
 
 *Italic*, **bold**, and `monospace`. 
 
