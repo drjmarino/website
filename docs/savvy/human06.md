@@ -1,4 +1,4 @@
-# Title of the Page
+# Plushies
 
 Paragraphs are separated by a blank line.
 
