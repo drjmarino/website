@@ -1,6 +1,6 @@
-# Title of the Page
+# Deannes page
 
-Paragraphs are separated by a blank line.
+iformation i want to share
 
 *Italic*, **bold**, and `monospace`. 
 
@@ -12,7 +12,7 @@ Itemized lists look like:
 
 
 
-## First header
+## Next set of information
 
 Here's a numbered list:
 
