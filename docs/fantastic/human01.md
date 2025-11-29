@@ -1,4 +1,4 @@
-# Erick's Page
+# Title of the Page
 
 Paragraphs are separated by a blank line.
 
@@ -9,7 +9,6 @@ Itemized lists look like:
   * this one
   * that one
   * the other one
-
 
 
 ## First header

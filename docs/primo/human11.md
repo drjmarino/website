@@ -1,4 +1,5 @@
-Abigail Sanchez-Perdomo
+# Title of the Page
+
 Paragraphs are separated by a blank line.
 
 *Italic*, **bold**, and `monospace`. 
@@ -8,7 +9,6 @@ Itemized lists look like:
   * this one
   * that one
   * the other one
-
 
 
 ## First header

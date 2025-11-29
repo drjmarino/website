@@ -1,6 +1,7 @@
-# My Portfolio 
+# Title of the Page
 
-Me when I make a portfolio
+Paragraphs are separated by a blank line.
+
 *Italic*, **bold**, and `monospace`. 
 
 Itemized lists look like:
@@ -8,7 +9,6 @@ Itemized lists look like:
   * this one
   * that one
   * the other one
-
 
 
 ## First header

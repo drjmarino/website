@@ -1,1 +1,1 @@
-# Financial Math
+# Watkins Mill Computer Science

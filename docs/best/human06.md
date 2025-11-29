@@ -1,14 +1,14 @@
-# :3
+# Title of the Page
 
 Paragraphs are separated by a blank line.
 
-*:3*, **:3**, and `:3`. 
+*Italic*, **bold**, and `monospace`. 
 
 Itemized lists look like:
 
-  * :3
-  * :3
-  * :3
+  * this one
+  * that one
+  * the other one
 
 
 ## First header

@@ -1,4 +1,4 @@
-# –_—
+# Title of the Page
 
 Paragraphs are separated by a blank line.
 
