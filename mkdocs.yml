@@ -1,5 +1,6 @@
 site_name: Watkins Mill Computer Science
 repo_url: https://github.com/drjmarino/website
+site_url: https://drjmarino.github.io/website/
 nav:
     - index.md
     - Awesome Class:
