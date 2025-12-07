@@ -1,5 +1,5 @@
 site_name: Watkins Mill Computer Science
-site_url: https://drjmarino.github.io/website/
+# site_url: https://drjmarino.github.io/website/
 nav:
     - index.md
     - Awesome Class:
