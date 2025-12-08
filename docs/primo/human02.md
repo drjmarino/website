@@ -5,9 +5,9 @@ Paragraphs are separated by a blank line.
 
 Itemized lists look like:
 
-  * this one
-  * that on
-  * the other one
+  * Pizza
+  * Taco
+  * CHick Fila
 
 
 
@@ -15,9 +15,9 @@ Itemized lists look like:
 
 Here's a numbered list:
 
- 1. first item
- 2. second item
- 3. third item
+ 1. PC
+ 2. Laptop
+ 3. Nintendo Switch 2
 
 ### Second level header
 
@@ -35,9 +35,9 @@ Now a nested list:
  3. Dump everything in the pot and follow
     this algorithm:
 
-     a. first sub
-     b. second sub
-     c. third sub
+     a. I dont know 1
+     b. I dont know 2
+     c. I used AI on all my assignments
 
 Notice again how text always lines up on 4-space indents (including
 that last line which continues item 3 above).
