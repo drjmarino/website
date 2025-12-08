@@ -1,4 +1,4 @@
-# Title of the Page
+# Nathan's beautiful page
 
 Paragraphs are separated by a blank line.
 
