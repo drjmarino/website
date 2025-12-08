@@ -1,4 +1,4 @@
-# Title of the Page
+# Cool page
 
 Paragraphs are separated by a blank line.
 
