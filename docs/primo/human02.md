@@ -1,5 +1,4 @@
-# Title of the Page
-
+# RandomStuff :D
 Paragraphs are separated by a blank line.
 
 *Italic*, **bold**, and `monospace`. 
@@ -7,7 +6,7 @@ Paragraphs are separated by a blank line.
 Itemized lists look like:
 
   * this one
-  * that one
+  * that on
   * the other one
 
 
@@ -21,6 +20,7 @@ Here's a numbered list:
  3. third item
 
 ### Second level header
+
 
 Now a nested list:
 
