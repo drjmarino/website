@@ -43,7 +43,7 @@ Notice again how text always lines up on 4-space indents (including
 that last line which continues item 3 above).
 
 Here's a link to [a website](http://cool.site).
-new link [a website](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+new link [a very nice video](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 
 Tables can look like this:
