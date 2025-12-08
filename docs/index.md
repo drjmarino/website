@@ -11,3 +11,5 @@ I use AI to write my Markdown formatting because I already know how to write it,
 ### Question 2: The "Voice" Test
 
 If I use Gemini to polish my writing, is it still my writing? If I send an email that AI rewrote, am I lying to the person receiving it about how good a writer I am?
+
+Personally I don't like Generative AI, I don't think the eviromental cost is worth what its does.
