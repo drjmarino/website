@@ -1,4 +1,4 @@
-# Title of the Page
+# Watkins Mill HS
 
 Paragraphs are separated by a blank line.
 
