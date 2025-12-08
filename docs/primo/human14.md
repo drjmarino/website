@@ -1,4 +1,4 @@
-# Title of the Page
+# Kwajo Page
 
 Paragraphs are separated by a blank line.
 
