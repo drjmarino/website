@@ -1,4 +1,4 @@
-# Title of the Page
+# Title 
 
 Paragraphs are separated by a blank line.
 
@@ -9,6 +9,7 @@ Itemized lists look like:
   * this one
   * that one
   * the other one
+  * one
 
 
 
@@ -29,6 +30,7 @@ Now a nested list:
       * carrots
       * celery
       * lentils
+      * beans
 
  2. Boil some water.
 
