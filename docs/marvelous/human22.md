@@ -16,9 +16,9 @@ Itemized lists look like:
 
 Here's a numbered list:
 
- 1. first item
- 2. second item
- 3. third item
+ 1. nathan one
+ 2. nathan two
+ 3. nathan three
 
 ### Second level header
 
