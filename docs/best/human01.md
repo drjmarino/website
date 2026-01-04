@@ -4,11 +4,10 @@ Paragraphs are separated by a blank line.
 
 *Italic*, **bold**, and `monospace`. 
 
-Itemized lists look like:
-
-  * this one
-  * that one
-  * the other one
+Social Media username's
+  * Instagram : Jeff_y.1
+  * TikTok: jeff_y.0
+  * Discord : Jeff#4444
 
 
 
