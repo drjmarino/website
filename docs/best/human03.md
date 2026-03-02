@@ -1,4 +1,4 @@
-# Title of the Page
+# Nick's Page
 
 Paragraphs are separated by a blank line.
 
@@ -12,13 +12,13 @@ Itemized lists look like:
 
 
 
-## First header
+## Top 3 Hiking Trails
 
 Here's a numbered list:
 
- 1. first item
- 2. second item
- 3. third item
+ 1. Appalachian Trail
+ 2. Trans Candadian Trail
+ 3. C&O Canal Towpath
 
 ### Second level header
 
